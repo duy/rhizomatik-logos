@@ -937,16 +937,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748738"
-     inkscape:cx="192.54299"
-     inkscape:cy="-319.44718"
+     inkscape:zoom="22.400001"
+     inkscape:cx="779.19563"
+     inkscape:cy="-4534.4732"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1272"
      inkscape:window-height="715"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="24"
      showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
@@ -1044,6 +1044,16 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect5970"
+       width="16"
+       height="16"
+       x="766.42853"
+       y="5581.585"
+       inkscape:export-filename="/home/duy/rhizomatik/git-rhizomatik/rhizomatik/images/logo/favicon.png"
+       inkscape:export-xdpi="52"
+       inkscape:export-ydpi="52" />
     <path
        style="fill:#d70751"
        d="M 177.1093,863.44559 C 172.9843,863.50359 177.8893,865.57059 183.2743,866.39959 C 184.7623,865.23859 186.1123,864.06359 187.3143,862.92059 C 183.9603,863.74159 180.5493,863.75859 177.1093,863.44559"
@@ -19267,5 +19277,89 @@
            d="M 296.22723,482.25732 C 296.22723,483.44284 295.26618,484.40389 294.08066,484.40389 C 292.89513,484.40389 291.93408,483.44284 291.93408,482.25732 C 291.93408,481.0718 292.89513,480.11075 294.08066,480.11075 C 295.26618,480.11075 296.22723,481.0718 296.22723,482.25732 z" />
       </g>
     </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#6e90a5;stroke-width:0.12180558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 773.55808,5590.8572 C 767.51244,5586.8285 767.51244,5586.8285 767.51244,5586.8285"
+       id="path5896"
+       inkscape:export-filename="/home/duy/rhizomatik/git-rhizomatik/rhizomatik/images/logo/favicon.png"
+       inkscape:export-xdpi="52.980587"
+       inkscape:export-ydpi="52.980587" />
+    <path
+       id="path5898"
+       style="fill:#ff7800;fill-opacity:1;stroke:none;stroke-width:2.53020787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 768.48718,5586.9114 C 768.48749,5587.3455 768.13723,5587.6977 767.70505,5587.6977 C 767.27289,5587.6977 766.92262,5587.3455 766.92294,5586.9114 C 766.92262,5586.4771 767.27289,5586.125 767.70505,5586.125 C 768.13723,5586.125 768.48749,5586.4771 768.48718,5586.9114 z"
+       inkscape:export-filename="/home/duy/rhizomatik/git-rhizomatik/rhizomatik/images/logo/favicon.png"
+       inkscape:export-xdpi="52"
+       inkscape:export-ydpi="52" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#6e90a5;stroke-width:0.12422152;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 772.7508,5583.7158 C 774.99908,5594.7369 774.99908,5594.7369 774.99908,5594.7369"
+       id="path5902"
+       inkscape:export-filename="/home/duy/rhizomatik/git-rhizomatik/rhizomatik/images/logo/favicon.png"
+       inkscape:export-xdpi="52.980587"
+       inkscape:export-ydpi="52.980587" />
+    <path
+       id="path5904"
+       style="fill:#ff7800;fill-opacity:1;stroke:none;stroke-width:2.52962589;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 775.91574,5594.6667 C 775.91612,5595.199 775.48678,5595.6306 774.95702,5595.6306 C 774.42726,5595.6306 773.99791,5595.199 773.9983,5594.6667 C 773.99791,5594.1345 774.42726,5593.7029 774.95702,5593.7029 C 775.48678,5593.7029 775.91612,5594.1345 775.91574,5594.6667 z"
+       inkscape:export-filename="/home/duy/rhizomatik/git-rhizomatik/rhizomatik/images/logo/favicon.png"
+       inkscape:export-xdpi="52"
+       inkscape:export-ydpi="52" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#6e90a5;stroke-width:0.12422152;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 769.16757,5593.029 C 780.93599,5589.0026 780.93599,5589.0026 780.93599,5589.0026"
+       id="path5910"
+       inkscape:export-filename="/home/duy/rhizomatik/git-rhizomatik/rhizomatik/images/logo/favicon.png"
+       inkscape:export-xdpi="52.980587"
+       inkscape:export-ydpi="52.980587" />
+    <path
+       id="path5912"
+       style="fill:#118cb4;fill-opacity:1;stroke:none;stroke-width:2.53020787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 781.82915,5588.9983 C 781.82949,5589.4634 781.45422,5589.8407 780.9912,5589.8407 C 780.52816,5589.8407 780.15289,5589.4634 780.15323,5588.9983 C 780.15289,5588.533 780.52816,5588.1557 780.99119,5588.1557 C 781.45422,5588.1557 781.82949,5588.533 781.82915,5588.9983 z"
+       inkscape:export-filename="/home/duy/rhizomatik/git-rhizomatik/rhizomatik/images/logo/favicon.png"
+       inkscape:export-xdpi="52"
+       inkscape:export-ydpi="52" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.12422152;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 776.78765,5588.1344 C 774.0523,5591.2021 774.0523,5591.2021 774.0523,5591.2021"
+       id="path5918"
+       inkscape:export-filename="/home/duy/rhizomatik/git-rhizomatik/rhizomatik/images/logo/favicon.png"
+       inkscape:export-xdpi="52.980587"
+       inkscape:export-ydpi="52.980587" />
+    <path
+       id="path5920"
+       style="fill:#87bd00;fill-opacity:1;stroke:none;stroke-width:2.53020787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 774.78347,5591.1512 C 774.78373,5591.5106 774.49375,5591.8022 774.13593,5591.8022 C 773.77812,5591.8022 773.48814,5591.5106 773.4884,5591.1512 C 773.48814,5590.7916 773.77812,5590.5002 774.13593,5590.5002 C 774.49375,5590.5002 774.78373,5590.7916 774.78347,5591.1512 z"
+       inkscape:export-filename="/home/duy/rhizomatik/git-rhizomatik/rhizomatik/images/logo/favicon.png"
+       inkscape:export-xdpi="52"
+       inkscape:export-ydpi="52" />
+    <path
+       id="path5924"
+       style="fill:#118cb4;fill-opacity:1;stroke:none;stroke-width:2.52962589;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 773.99444,5587.6889 C 773.99466,5587.9833 773.75707,5588.2223 773.46392,5588.2223 C 773.17077,5588.2223 772.93318,5587.9833 772.9334,5587.6889 C 772.93318,5587.3943 773.17077,5587.1554 773.46392,5587.1554 C 773.75707,5587.1554 773.99466,5587.3943 773.99444,5587.6889 z"
+       inkscape:export-filename="/home/duy/rhizomatik/git-rhizomatik/rhizomatik/images/logo/favicon.png"
+       inkscape:export-xdpi="52"
+       inkscape:export-ydpi="52" />
+    <path
+       id="path5930"
+       style="fill:#ff7800;fill-opacity:1;stroke:none;stroke-width:2.53020787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 777.60943,5588.3364 C 777.60974,5588.7203 777.27169,5589.0316 776.85459,5589.0316 C 776.43748,5589.0316 776.09943,5588.7203 776.09973,5588.3364 C 776.09943,5587.9525 776.43748,5587.6412 776.85459,5587.6412 C 777.27169,5587.6412 777.60974,5587.9525 777.60943,5588.3364 z"
+       inkscape:export-filename="/home/duy/rhizomatik/git-rhizomatik/rhizomatik/images/logo/favicon.png"
+       inkscape:export-xdpi="52"
+       inkscape:export-ydpi="52" />
+    <path
+       id="path5934"
+       style="fill:#118cb4;fill-opacity:1;stroke:none;stroke-width:2.53020787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 770.11364,5592.9354 C 770.11408,5593.5313 769.63338,5594.0145 769.04026,5594.0145 C 768.44715,5594.0145 767.96647,5593.5313 767.96691,5592.9354 C 767.96647,5592.3395 768.44715,5591.8562 769.04026,5591.8562 C 769.63338,5591.8562 770.11408,5592.3395 770.11364,5592.9354 z"
+       inkscape:export-filename="/home/duy/rhizomatik/git-rhizomatik/rhizomatik/images/logo/favicon.png"
+       inkscape:export-xdpi="52"
+       inkscape:export-ydpi="52" />
+    <path
+       id="path5940"
+       style="fill:#87bd00;fill-opacity:1;stroke:none;stroke-width:2.53020787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+       d="M 773.44274,5583.9316 C 773.44305,5584.3457 773.10911,5584.6814 772.69707,5584.6814 C 772.28504,5584.6814 771.9511,5584.3457 771.9514,5583.9316 C 771.9511,5583.5177 772.28504,5583.1819 772.69707,5583.1819 C 773.10911,5583.1819 773.44305,5583.5177 773.44274,5583.9316 z"
+       inkscape:export-filename="/home/duy/rhizomatik/git-rhizomatik/rhizomatik/images/logo/favicon.png"
+       inkscape:export-xdpi="52"
+       inkscape:export-ydpi="52" />
   </g>
 </svg>
